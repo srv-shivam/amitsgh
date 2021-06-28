@@ -9,7 +9,7 @@
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: 
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he
 - ⚡ Fun fact: I love to Play basketball 🏀 and read/watch mystery genre🕵️‍♂️
 
 <br>
