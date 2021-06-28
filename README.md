@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit Singh</h2>
+<h3 align="center">A CSE Junior and Tech Lover</h3>
 
-<!--
-**amitsgh/amitsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsgh&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Flutter project
+- 🌱 I’m currently learning Flutter and Docker
+- 👯 I’m looking to collaborate more in open source
+<!-- - 🤔 I’m looking for help with  -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: 
+- 😄 Pronouns: he/she
+- ⚡ Fun fact: I love to Play basketball 🏀 and read/watch mystery genre🕵️‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=amitsgh&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=#808080&bg_color=#ffffff" width="400" height="auto">
