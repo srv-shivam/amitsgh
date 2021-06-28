@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="donut video" src="https://github.com/amitsgh/donut.py/blob/main/images/donut.gif" width="300" height="200"/>
+<img align="right" alt="donut video" src="https://github.com/amitsgh/donut.py/blob/main/images/donut.gif" margin:50 width="300" height="200"/>
 
 - 🔭 I’m currently working on Flutter project
 - 🌱 I’m currently learning Flutter and Docker
