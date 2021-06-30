@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="donut video" src="https://github.com/amitsgh/donut.py/blob/main/images/donut.gif" margin:50 width="300" height="200"/>
+<img position="relative" top="-10px" align="right" alt="![Metrics]" src="https://metrics.lecoq.io/amitsgh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" margin:50 width="600" height="auto"/>
 
 - 🔭 I’m currently working on Flutter project
 - 🌱 I’m currently learning Flutter and Docker
@@ -24,7 +24,9 @@
 <br>
 <br>
 
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=amitsgh&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=#808080&bg_color=#ffffff" width="400" height="auto">&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsgh&show_icons=true&hide_border=true&layout=compact&langs_count=8"/  width="292" height="auto">
 </p>
+
