@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img position="relative" top="-10px" align="right" alt="Metrics" src="https://metrics.lecoq.io/amitsgh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" margin:50 width="500" height="auto"/>
+<img align="right" alt="Metrics" src="https://github.com/amitsgh/amitsgh/blob/main/github-metrics.svg" width="500" height="auto"/>
 
 - 🔭 I’m currently working on Flutter project
 - 🌱 I’m currently learning Flutter and Docker
