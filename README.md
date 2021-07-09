@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="Metrics" src="https://github.com/amitsgh/amitsgh/blob/main/github-metrics.svg" width="500" height="auto"/>
+<img align="right" alt="snakeGenerator" src="https://github.com/amitsgh/amitsgh/blob/output/github-contribution-grid-snake.svg" width="500" height="auto"/>
 
 - 🔭 I’m currently working on Flutter project
 - 🌱 I’m currently learning Flutter and Docker
